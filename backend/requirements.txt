@@ -1,0 +1,12 @@
+uvicorn
+motor
+pymongo
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pydantic-settings
+email-validator
+jinja2
+aiofiles
+bcrypt
